@@ -6,7 +6,7 @@
 
 **XAI-General shap plot**: Which features are more important to predict stroke and to predict if stroke is probable or non-probable 
 
-<img src="shapPlot.PNG" width="200">
+<img src="shapPlot.PNG" width="600">
 
 **XAI LIME subject specific plot**: For a specific subject why they are probable or non probable for stroke.
 
