@@ -1,6 +1,7 @@
 # Stroke-Prediction-XAI, 
 
 ● SHAP - For Global Feature importance Beewarm plot
+
 ● LIME (Local Interpretable Model-Agnostic Explanations) - For Local explanations.
 
 **Objective**: To predict how prone a person is to get stroke? 
